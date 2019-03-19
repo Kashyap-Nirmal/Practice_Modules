@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script>
+function ipLookUp() {
+  $.ajax('http://ip-api.com/json?fields=258047')
+  .then(
+      function success(response) {
+          var ip=response.query;
+          var city=response.city;
+          var state=response.regionName;
+          var zip=response.zip;
+          var country=response.country;
+          var device="";
+          var proxy_bool=response.proxy;
+          var latitude=response.lat;
+          var longitude=response.lon;          
+          if(/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)){
+            device="Cellphone";
+          } 
+          else {
+          device="Computer";
+          }
+          alert("IP : "+ip+"\nCity : "+city+"\nState : "+state+"\nZip : "+zip+"\nCountry : "+country+"\nDevice : "+device+"\nProxy:"+proxy_bool+"\nLatitude : "+latitude+"\nLongitude : "+longitude);
+      },
+      function fail(data, status) {
+          alert('Request failed.  Returned status of',status);
+      }
+  );
+}
+</script>
+</head>
+<body onload="ipLookUp()">
+</body>
+</html>
