@@ -1,5 +1,5 @@
 # Practice_Modules.Java.Brick_Breaker(Applet)
-Simple Java applet based game.Here the score,#hits,level are displayed.Additionaly size of the board also decrease as you clear levels.  
+Simple Java applet based game.Here the score,levels,#hits are displayed.Additionaly size of the board also decrease as you clear levels.  
 
 Welcoming Screen
 
