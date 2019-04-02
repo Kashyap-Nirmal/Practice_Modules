@@ -1,6 +1,11 @@
 # Practice_Modules.PHP.User_IP
-Simple NS2 for implementation of bus topology.
+Fetched the details from live ip during request and add the details into SQL database
 
-Snap from Animation.
+Snap from Cellphone.
 
-![Snap from animation](https://github.com/Kashyap-Nirmal/Practice_Modules/blob/master/PHP/User_IP/Snap%20from%20cellphone.png)
+![Snap from Cellphone](https://github.com/Kashyap-Nirmal/Practice_Modules/blob/master/PHP/User_IP/Snap%20from%20cellphone.png)
+
+User_IP_Details
+
+![User_IP_Details](https://github.com/Kashyap-Nirmal/Practice_Modules/blob/master/PHP/User_IP/User_IP_Details.png)
+
