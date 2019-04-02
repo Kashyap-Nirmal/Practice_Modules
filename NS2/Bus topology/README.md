@@ -1,4 +1,4 @@
-# Practice_Modules.PHP.User_IP
+# NS2 Bus Topoplogy
 Simple NS2 for implementation of bus topology.
 
 Snap from Animation.
