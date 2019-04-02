@@ -1,4 +1,4 @@
-# Practice_Modules.PHP.User_IP
+# User_IP
 Fetched the details from live ip during request and add the details into SQL database
 
 Snap from Cellphone.
