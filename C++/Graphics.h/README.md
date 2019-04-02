@@ -1,10 +1,10 @@
-# Water Jug Problem
-The water jug problem for eg. is Fill 4L. water from a 3L,5L,8L jugs.
+# Timer
+Simple Timer designed using 'Graphics.h'
 
-Test Case 
+Snap 1
 
-![Test Case 1](https://github.com/Kashyap-Nirmal/Practice_Modules/blob/master/C%2B%2B/Water%20Jug%20Problem/Test%20case_1.png)
+![Snap 1](https://github.com/Kashyap-Nirmal/Practice_Modules/blob/master/C%2B%2B/Graphics.h/Snap%201.png)
 
-Test Case (Contd.)
+Snap 2
 
-![Test Case 2](https://github.com/Kashyap-Nirmal/Practice_Modules/blob/master/C%2B%2B/Water%20Jug%20Problem/Test%20case_2.png)
+![Snap 2](https://github.com/Kashyap-Nirmal/Practice_Modules/blob/master/C%2B%2B/Graphics.h/Snap%202.png)
