@@ -3,7 +3,7 @@ Fetched the details from live ip during request and add the details into SQL dat
 
 Snap from cellphone
 
-![Snap from cellphone](https://github.com/Kashyap-Nirmal/Practice_Modules/blob/master/PHP/User_IP/Snap%20from%20Cellphone.png)
+![Snap from cellphone](https://github.com/Kashyap-Nirmal/Practice_Modules/blob/master/PHP/User_IP/Snap%20from%20cellphone.png)
 
 User_IP_Details
 
