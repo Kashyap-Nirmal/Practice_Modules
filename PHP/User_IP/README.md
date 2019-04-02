@@ -1,5 +1,5 @@
 # Practice_Modules.PHP.User_IP
-Fetch the details from live ip on requests and add them into SQL database for records.
+Fetched the details from live ip during request and add the details into SQL database for records.
 
 Snap from cellphone
 
