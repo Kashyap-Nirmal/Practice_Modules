@@ -1,4 +1,4 @@
-# Practice_Modules.C++.Water Jug Problem
+# Water Jug Problem
 The water jug problem for eg. is Fill 4L. water from a 3L,5L,8L jugs.
 
 Test Case 
